@@ -4,6 +4,7 @@
 	box-sizing: border-box;
 	background: linear-gradient(to left, #0000cc 0%, #ff3300 100%);
 	font-family: 'Josefin Sans', sans-serif;
+	
 }
 
 img {
@@ -11,6 +12,9 @@ img {
 	border-radius: 50%;
 	height:130px ;
 	width: 130px;
+	margin-left: 40px;
+	padding-top: 12px;
+	padding-bottom: 12px;
 }
 
 h1 {
@@ -50,5 +54,6 @@ h2 {
 	background: transparent;
 	text-align: right;
 	padding-top: -23px;
-	margin: 10px;
+	margin-right: 40px;
 }
+
